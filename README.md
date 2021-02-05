@@ -8,7 +8,7 @@
 ## Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cod3ddot&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cod3ddot&langs_count=8" />
 </div>  
 
 ## Connect with me  
