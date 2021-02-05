@@ -6,7 +6,7 @@
 ### <div align="center">Hi! I'm Cod3d, I'm learning how to create games and websites. And how to hack them)</div>  
   
 
-<div>
+<div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" align="center" /></li>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" align="center" /></li>
 </div>  
