@@ -10,26 +10,6 @@
 **P.S.**
 
 Don't forget:  TABS > SPACES  
-  
-
-<br/>  
-
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -43,10 +23,6 @@ Don't forget:  TABS > SPACES
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
