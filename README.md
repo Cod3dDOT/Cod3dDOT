@@ -11,6 +11,8 @@
 
 Don't forget:  TABS > SPACES  
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/cod3ddot" target="_blank">
@@ -23,6 +25,3 @@ Don't forget:  TABS > SPACES
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
