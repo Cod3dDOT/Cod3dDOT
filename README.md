@@ -7,9 +7,9 @@
   
 
 <div align="center">
-<ul display="inline">
-<li display="inline"><img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" align="center" /></li>
-<li display="inline"><img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" align="center" /></li>
+<ul display="flex" list-style="none">
+<li><img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" align="center" /></li>
+<li><img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" align="center" /></li>
 </ul>
 </div>  
 
