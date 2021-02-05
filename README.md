@@ -7,8 +7,8 @@
   
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" /></li>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" /></li>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&" />
 </div>  
 
 ## Connect with me  
