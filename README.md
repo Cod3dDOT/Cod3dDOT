@@ -7,10 +7,6 @@
 ### <div align="center">Hi! I'm Cod3d, I'm learning how to create games and websites. And how to hack them)</div>  
   
 
-**P.S.**
-
-Don't forget:  TABS > SPACES  
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cod3ddot&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 ## Connect with me  
