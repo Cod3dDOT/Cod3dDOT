@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Cod3d, I'm learning how to create games and websites. And how to hack them)</div>  
+### <div align="center">Hi! I'm Cod3d, I'm learning how to create stuff. And how to hack it xD</div>  
   
 ## Stats
 <div align="center">
