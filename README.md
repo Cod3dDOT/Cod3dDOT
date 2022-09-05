@@ -2,13 +2,13 @@ Hi! I'm Cod3d, I'm learning how to create stuff and how to hack it...
 
 <div style="display:flex">
 
-<div>
+<div style="width:100%">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/cod3ddot?theme=dark&font=Fira%20Code&ext=activity)
 
 </div>
 
-<div>
+<div style="width:100%">
   
 ![Svg](/assets/code.svg)
 
