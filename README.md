@@ -1,6 +1,6 @@
 Hi! I'm Cod3dDot, I'm learning how to create stuff and how to hack it...
 
-<div style="display:flex">
+<div style="display:flex; flex-direction: row;">
 
 <div style="width:50%">
 
