@@ -1,7 +1,7 @@
 Hi! I'm Cod3dDot, I'm learning how to create stuff and how to hack it...
 
 <div style="display:flex; flex-direction: row;">
-<img src="https://leetcard.jacoblin.cool/cod3ddot?theme=dark&font=Fira%20Code&ext=activity" />
+<img src="https://leetcard.jacoblin.cool/cod3ddot?theme=dark&font=Fira%20Code&ext=activity" width="50%"/>
 <div>
   
 <img src="/assets/code.svg" />
