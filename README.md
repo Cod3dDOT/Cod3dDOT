@@ -5,7 +5,7 @@
 <!-- Bottom section: 16:9 image left, quote right -->
 <p align="middle">
   <!-- Left image -->
-  <img src="https://raw.githubusercontent.com/Cod3dDOT/Cod3dDOT/refs/heads/main/assets/code.svg" width="400" />
+  <img align="right" width="400" src="https://raw.githubusercontent.com/Cod3dDOT/Cod3dDOT/refs/heads/main/assets/code.svg" />
 
   <!-- Right quote -->
   <p>
