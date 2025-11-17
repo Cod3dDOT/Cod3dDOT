@@ -5,10 +5,10 @@
 <!-- Bottom section: 16:9 image left, quote right -->
 <p align="middle">
   <!-- Left image -->
-  <img align="middle" width="400" src="https://raw.githubusercontent.com/Cod3dDOT/Cod3dDOT/refs/heads/main/assets/code.svg" />
+  <img align="left" width="400" src="https://raw.githubusercontent.com/Cod3dDOT/Cod3dDOT/refs/heads/main/assets/code.svg" />
 
   <!-- Right quote -->
-  <blockquote align="middle">
+  <i>
     P.S.<br/>If things around here aren't working,<br/>it's because I'm laughing so hard.
-  <blockquotep>
+  <i>
 </p>
