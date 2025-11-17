@@ -8,7 +8,7 @@
   <img align="left" width="400" src="https://raw.githubusercontent.com/Cod3dDOT/Cod3dDOT/refs/heads/main/assets/code.svg" />
 
   <!-- Right quote -->
-  <p width="200">
+  <p width="100px">
     "P.S. If things around here aren't working, it's because I'm laughing so hard."
   </p>
 </p>
