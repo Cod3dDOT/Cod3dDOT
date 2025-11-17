@@ -9,6 +9,6 @@
 
   <!-- Right quote -->
   <blockquote>
-    "P.S.<br/>If things around here aren't working,<br/>it's because I'm laughing so hard."
+    P.S.<br/>If things around here aren't working,<br/>it's because I'm laughing so hard.
   <blockquotep>
 </p>
