@@ -1,4 +1,4 @@
-<img  width="600" src="https://raw.githubusercontent.com/Cod3dDOT/Cod3dDOT/refs/heads/main/assets/logo%20long.png"/>
+<img  width="600" src="https://raw.githubusercontent.com/Cod3dDOT/Cod3dDOT/refs/heads/main/assets/logo_long.png"/>
 
 #### Hello there.
 You have reached my silly stuffs account. Expect laggy, buggy, creative learning experiences of mine that I deemed interesting enough to write a readme for.  
